@@ -1,0 +1,19 @@
+.first 
+{
+    background-color: #ff000080;
+}
+
+.second 
+{
+    font-size: 24px;
+}
+
+#nr2 
+{
+    color: blue;font-size: 32px;
+}
+
+#nr4 
+{
+    background-color: #00ff0080;font-size: 26;font-weight: bold;
+}
